@@ -39,3 +39,8 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+.. image:: https://badges.gitter.im/pyvm/community.svg
+   :alt: Join the chat at https://gitter.im/pyvm/community
+   :target: https://gitter.im/pyvm/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
